@@ -10,7 +10,6 @@ This repository contains Python code for analyzing the relationship between oper
 
 You can install the required packages via pip:
 
-##Results
-
+## Results
 This will generate various plots depicting the relationship between operative mortality and other factors.
 
